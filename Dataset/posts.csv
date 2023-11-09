@@ -1,0 +1,6 @@
+﻿id,user_id,cv_id,title,content,upvote,downvote,created_at,deleted_at_1
+1,1,1,null,"Dạ em chào a/c, em hiện là sinh viên năm 2. A/c nào có kinh nghiệm trong viết CV, dành một chút thời gian để nhận xét và sửa giúp em, để em có được chiếc CV hoàn thiện nhất ạ. Em xin chân thành cảm ơn. ...",0,0,5/19/2023 9:45,5/19/2023 9:45
+2,2,2,Nhận xét,"Hiện tại em mong muốn tìm công ty thực tập ở Tp.HCM có hỗ trợ dấu mộc, số liệu/tài liệu làm báo cáo và lương thực tập.",0,0,5/19/2023 9:45,5/19/2023 9:45
+3,3,3,Tìm job + nhận xét CV,Mấy anh chị HR xem tìm việc giúp em ạ,0,0,5/19/2023 9:45,5/19/2023 9:45
+4,4,4,null,Hiện em đang cần việc gấp mong mấy anh chị giúp đỡ,0,0,5/19/2023 9:45,5/19/2023 9:45
+5,5,5,Tìm việc ở HCM,Hiện em đang gặp vấn đề về tài chính nên mong anh chị xem giúp đở em ạ,0,0,5/19/2023 9:45,5/19/2023 9:45
