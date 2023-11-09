@@ -1,0 +1,4 @@
+﻿id,company_id,user_id,reason,created_at,updated_at
+1,1,1,Thiếu mức lương,20/3/2023,4/4/2023
+2,1,2,Thiếu mức lương,20/3/2024,4/4/2023
+3,2,3,"Cần thêm thông tin về công ty như con đường sứ mệnh, hỗ trợ từ công ty",20/3/2025,4/4/2023

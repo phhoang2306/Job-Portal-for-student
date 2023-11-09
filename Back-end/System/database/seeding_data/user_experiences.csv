@@ -1,0 +1,99 @@
+﻿id,user_id,title,postion,description,time_start,time_end
+1,9,DIGI ME SCSE,PM - Fullstack,"Tôi giúp team backend củng cố lại code và hỗ trợ những chức năng mà team không có hướng đi, code lại những chức năng mà team backend chưa chắc chắn và team front-end. Tôi đã giúp team làm các giao diện cơ bản và hướng dẫn team frontend làm việc với API.",9/1/2021,9/4/2021
+2,5,CHAMCONGVN,Full Stack,"Tôi và các đồng nghiệp đã làm việc cùng nhau trong một dự án trong đợt bùng phát Covid. Nhóm của tôi đã hoàn thành WebClient trong vòng chưa đầy một tháng (. Với những khả năng đã có trong reactjs nên chúng tôi sẽ phân tích và tìm hiểu mobile client trong vòng ba ngày, hiện tại mobile client vẫn chưa hoàn thành. Chúng tôi đã phát triển một giải pháp chuyên về quản lý nguồn nhân lực cho các công ty, trong đó một mô-đun nhận dạng khuôn mặt được tích hợp để theo dõi sự tham gia của nhân viên.",1/7/2021, 1/8/2021
+3,39,Lập trình giao diện và thiết kế trò chơi T - rex,Đồ án môn học,"Tạo một trò chơi khủng long đang chạy. Có các chức năng cơ bản như đặt tên nhân vật, chọn nhân vật, xem hướng dẫn, chơi game, khủng long nhảy qua chướng ngại vật và ăn thịt để lấy điểm. Công việc: Code chức năng nhảy của khủng long và bắt đầu đếm, hỗ trợ Code các chức năng nhỏ trong game.",1/2/2021, 1/4/2021
+4,19,Hệ thống quản lý rạp chiếu phim,Đồ án môn học,"Phân tích thiết kế hệ thống quản lý rạp chiếu phim, mô tả chức năng cần thiết của hệ thống, phân tích luồng dữ liệu của các chức năng và vẽ sơ đồ ERD, DFD của các chức năng. Công việc: Mô tả nghiệp vụ, mô tả chức năng, thiết kế sơ đồ FHD, DFD, ERD, hỗ trợ nhóm trưởng và các thành viên.",1/10/2021,1/12/2021
+5,49,AMIT GROUP,Thực Tập Sinh,"Công việc chính: Viết danh sách các câu hỏi và báo giá dự án cho khách hàng. Thực hiện phân tích, mô tả và thiết kế sơ đồ hệ thống. Tìm hiểu về phân tích và thiết kế hệ thống. Hỗ trợ rà soát và cải tiến hệ thống.",9/1/2022,12/1/2022
+6,6,CGV Cinema,Leader Staff,"Công việc chính: Giới thiệu, tư vấn sản phẩm và giải đáp các thắc mắc của khách hàng. Bán hàng cho người nước ngoài và người Việt Nam tại Rạp chiếu phim. Quảng cáo sản phẩm trên các ấn phẩm truyền thông như: banner, poster, flyer. Thực hiện kiểm kho, cập nhật các chương trình khuyến mãi mới, đưa các combo phim mới lên hệ thống. Thực hiện các báo cáo về doanh số bán hàng mỗi ngày.",12/1/2021,8/1/2022
+7,24,Citynow Technology Solutions,FRONTEND DEVELOPER,"Phân tích các yêu cầu từ khách hàng; Xử lý chức năng theo yêu cầu; Công nghệ được sử dụng: NextJS, Typescript, Redux, SCSS, Axios, Nguồn thiết lập Hrsol-kit: React, Typescript, Rollup, Storybook; Giao tiếp với backend để xử lý api: Axios; Máy định dạng Linters: ESLint, Prettier; Gói mô-đun: Webpack, Esbuild, Craco; Kiểm tra E2E: Cypress - Phong cách BDD",8/1/2021,11/1/2022
+8,31,VNG Corporation,SOFTWARE DEVELOPER INTERNSHIP,"Mã giao diện website giới thiệu Team; Mã giao diện Code-Tour 2021; Tìm hiểu về Docker và NodeJS; Công nghệ sử dụng: ReactJS, NodeJS, Ant Design, Material UI",3/1/2021,6/1/2021
+9,37,LBM Investment Joint Stock Company,PHP PROGRAMMER INTERN,"Thiết kế website đóng vai trò quản lý các phòng ban trong công ty LBM, quản lý hoạt động kinh doanh, quản lý hiệu quả kinh doanh giữa các phòng ban. Mã hóa giao diện, điều chỉnh độ nhạy, điều chỉnh UI/UX cho phù hợp với chức năng. Lấy dữ liệu từ API, xây dựng chức năng đăng nhập, chức năng tìm kiếm, phân trang. Vẽ biểu đồ với ChartJS để hiển thị hiệu quả kinh doanh. Công nghệ sử dụng: PHP, HTML, CSS, Javascript, Jquery, ChartJS, Bootstrap",8/1/2020,3/1/2021
+10,37,Web Scrapping x Cosine Similarity,Đồ án môn học,"Tìm kiếm dữ liệu văn bản trên web (trên Google), loại bỏ, tìm các câu / đoạn / từ tương tự với đầu vào của bạn dựa trên điểm tương tự Cosin.
+",4/4/2021,20/4/2021
+11,47,Tic-Tac-Toe version Who do you choose?,Đồ án môn học,Đó là một trò chơi tic-tac-toe với phong cách mới được thiết kế để theo dõi một gameshow nổi tiếng,3/1/2021,31/1/2021
+12,40,Jobbox,Đồ án môn học,"Dự án: Jobbox (Dự án phát triển trên web và mobile, dùng để quản lý tuyển dụng) - Module Quản lý tài khoản, quản lý phân quyền. Tạo specification, Tạo Test Plan, Tạo Test Report; Viết tài liệu UAT; Viết tài liệu hướng dẫn sử dụng",7/1/2020,9/1/2020
+13,32,AMIT GROUP,Internship,"Công nhận và lợi nhuận: Viết một danh sách các câu hỏi và báo giá dự án cho khách hàng. Tìm hiểu về phân tích và thiết kế hệ thống và hỗ trợ để xem xét và cải thiện hệ thống. Học kỹ năng giao tiếp và giải quyết vấn đề và học cách phân tích hệ thống. Nâng cao hiệu quả làm việc nhóm và biết sử dụng nhiều công cụ thiết kế giao diện hơn.
+",10/9/2022,12/12/2022
+14,10,Interface programming and game design T - rex,Đồ án môn học,"Mô tả: Thực hiện các chức năng cơ bản như đặt tên nhân vật, chọn nhân vật, xem hướng dẫn, chơi trò chơi, khủng long nhảy qua chướng ngại vật và ăn thịt để lấy điểm.",29/4/2021,25/5/2022
+15,3,Cinema Management System,Đồ án môn học,"Mô tả: Mô tả các chức năng cần thiết của hệ thống, phân tích luồng dữ liệu của các hàm, vẽ sơ đồ ERD và DFD của các hàm.",6/6/2021, 7/7/2021
+16,10,"Project: Back-end with java servlet, hibernate and jsp via bookstore",Đồ án môn học,"Xây dựng website Nhà sách cho phép khách hàng duyệt sách, xem chi tiết, tìm kiếm sách, viết đánh giá và đăng ký tài khoản và mua sách,",29/4/2021,2/2/202
+17,50,P.P Trading and Manufacturing JSC,Purchasing & Import Executive,"Nhận đơn đặt hàng từ bộ phận bán hàng, kiểm tra giá cả, thương lượng chi phí / đặc điểm kỹ thuật /tiến độ giao hàng để tìm nhà cung cấp tốt nhất (Sản phẩm: Giấy, bột giấy, văn phòng phẩm, cũ/ mới máy móc trong lĩnh vực giấy và in...)",1/12/2022,2/2/203
+18,23,"Alpha To Omega logistics Co., Ltd",Import- export staff,"Kiểm tra mã HS, thuế nhập khẩu, ETA và làm thủ tục Hải quan trên VNACCS hệ thống thông quan nhập khẩu (Thiết bị điện, nguyên vật liệu nhà xưởng...) . Làm Kế hoạch giao hàng cho khách hàng",1/12/2022,2/2/2023
+19,49,"Dragon logistics company, Haiphong branch",On-the-job trainee,"Giúp nhân viên của Dragon giao dịch với công ty vận chuyển để thay đổi vận đơn thành Đơn hàng, thanh toán tiền bảo đảm cho nắp container và thực hiện mọi hoạt động nhận hàng nhập và giao hàng nhập cho khách hàng.
+",1/12/2022,2/2/2023
+20,42,Jira Clone,Đồ án môn học,"Những đặc điểm chính: Dự án: tạo, tải lên, xóa, cài đặt danh mục. Xác thực: Đăng nhập, đăng ký bằng tên người dùng &; mật khẩu, Google.Tasks: Sử dụng kéo và thả để đặt trạng thái tác vụ, gán nhiều
+",1/12/2022,2/2/2023
+21,39,Booking Tour,Đồ án môn học,"
+Những đặc điểm chính: Xác thực: Đăng nhập, đăng ký, quênMật khẩu, Ủy quyền: Vai trò, hạn chế người dùng những gì họ có thể làm, An ninh: Ngăn chặn các cuộc tấn công nguy hiểm, vệ sinh, Tour du lịch: CRUD, Lọc tour du lịch
+",1/12/2022,2/2/2023
+22,32,MusicMelody,Front-end,"Một trang web âm nhạc, mà người dùng có thể nghe nhạc, tạo danh sách phát các bài hát của riêng bạn và thêm các bài hát vào yêu thích của bạn
+",12/12/2022,2/2/2023
+23,14,Chat Web,Front-end,"Một trang web trò chuyện, mà người dùng có thể nghe nhạc, tạo danh sách phát các bài hát của riêng bạn và thêm các bài hát vào yêu thích của bạn
+",1/12/2022,12/2/2023
+24,35,Shoes Shop,Backend,"Một trang web giày, mà người dùng có thể đặt hàng và mua sản phẩm. Ngoài ra, admin còn có thể quản lý sản phẩm, đơn hàng.
+",1/12/2022,2/2/2023
+25,41,Freelance,Full-stack Developer,"
+Làm việc với một khách hàng đang phát triển một trò chơi trực tuyến
+",29/4/2021, 7/5/2021
+26,45,MAICO GROUP company (Cong ty TNHH MAICO GROUP),Full-stack Developer,Bảo trì mã C# &; NuxtJS,1/6/2021,2/8/2021
+27,27,Website bán đồ chơi trẻ em.,Front End,"Viết bằng ReactJS, dùng axios để gọi API lấy data và render ra dữ liệu, đồng thời CRUD dữ liệu. Dùng Redux và JWT để authentication và authorization. Người dùng có thể xem sản phẩm, thêm sản phẩm vào giỏ và tiến hành mua hàng. Ngoài ra còn kết hợp Boostrap để dựng UI. Website đã được responsive trên các loại thiết bị.",1/6/2022,2/8/2022
+28,8,Website bán đồ,Back End,"Sử dụng ExpressJS để xây dựng Server và MYSQL để làm việc với Database, Sử dụng JWT để xác thực dữ liệu từ phía client. Server được viết theo mô hình MVC nhằm tối ưu hóa code. Deployment: Với database, sử dụng supabase, BE sử dụng render và FE thì sử dụng vercel.",1/7/2022,2/9/2022
+29,36,Công ty MBSTORE,Thực tập sinh,"Quản lý kho hàng, làm các công việc liên quan đến phần cứng",1/8/2022,2/10/2022
+30,2,Online library management website,Đồ án môn học,"Website quản lý thư viện trực tuyến nhằm quảng bá, giới thiệu hình ảnh thư viện đến bạn đọc, cung cấp thông tin, số lượng sách, phân loại sách... để giúp người đọc thuận tiện tra cứu",1/8/2023,2/10/2023
+31,36,"Thiết kế giao diện dựa trên các file mẫu có sẵn (ảnh, psd, figma)",Quản lý và phát triển dự án,"Lập trình viên chính, Quản lý dự án JavaScript",26/6/2022,20/10/2022
+32,6,Dreamy studio,Quản lý và phát triển dự án,"Lập trình viên chính, Quản lý dự án JavaScript",1/10/2021,1/1/2022
+33,26,Ứng dụng quản lý order đồ ăn thức uống của quán cafe,Quản lý dự án,Giải thích chi tiết toàn bộ mọi thứ về dự án cho khách hàng,2/5/2022,2/10/2022
+34,7,food-delivery,Đồ án môn học,Dự án này là một trang web đặt đồ ăn trực tuyến cho phép người dùng lựa chọn sản phẩm mà không cần đến cửa hàng trực tiếp.,2/6/2022,2/11/2022
+35,36,netflix-movie,Đồ án môn học,This project is an online movie information websitebased                                                                                                                                                                                                                                     ,2/7/2022,2/12/2022
+36,35,OOP (Project),Đồ án môn học,"Trình tạo dữ liệu sinh viên giả, Hiểu, giải thích, thực hiện bốn mẫu thiết kế cơ bản",1/1/2020,2/2/2020
+37,7,REVERIE E-COMMERCE,Đồ án môn học,"
+Đồng hồ Reverie là một trang web thương mại điện tử bán đồng hồ xa xỉ. Dự án này có các tính năng chính như: đáp ứng đầy đủ, đăng ký, đăng nhập, đăng xuất, thanh toán PayPal, đánh giá của khách hàng, lọc sản phẩm, phân trang...
+",2/6/2022,2/11/2022
+38,12,PERSONAL PORTFOLIO,Đồ án môn học,"Dự án này là dự án đầu tiên tôi xây dựng sau khi thoát ra khỏi địa ngục hướng dẫn. Tôi được truyền cảm hứng từ nhiều nhà phát triển tuyệt vời mà tôi đã học được từ Youtube, Udemy &; Freecodecamp.
+",2/7/2022,2/12/2022
+39,48,SHOES SHOP,Đồ án môn học,"Dự án SHOES SHOP là website bán giày và cho phép người dùng xem, tìm kiếm và mua giày phù hợp với mình, cũng như giúp người bán và quản trị viên quản lý hàng hóa và dữ liệu chính xác.
+",1/1/2020,2/11/2022
+40,24,NEWS SITE,Đồ án môn học,"Dự án TRANG TIN TỨC cho phép người dùng xem, cập nhật và đăng thông tin như thể thao, kinh tế và văn hóa.
+",1/2/2020,2/12/2022
+41,50,Friendly Classroom project,Project Manager,"Mục đích: xây dựng một ứng dụng web E-Learning hoàn chỉnh cho giáo viên và học sinh
+",1/3/2020,2/13/2022
+42,16,Movie Booking Ticket project,Graduation project,"Kinh nghiệm: gọi API để tương tác với Back-End trong một dự án thực tế, phân tích và thiết kế UI/UX của web, sử dụng git để cộng tác với teammates
+",1/4/2020,2/14/2022
+43,26,Udemy mini project,Front-End Devloper,"Kinh nghiệm: Tổ chức cấu trúc cho SCSS, đáp ứng đầy đủ bố cục. Mã nguồn: https://github.com/duyonix/Udemy
+",1/5/2020,2/15/2022
+44,36,Office Administrative Intern at Trung tam Huan Luyen Ky nang The He Tre (YSC),Graduation project,"
+Viết đề cương khóa học, Gọi tư vấn chăm sóc khách hàng (mời 10-20 học viên đến Trung tâm để tham gia khóa học của Trung tâm); Đăng tải thông tin tuyển dụng lên mạng xã hội.
+",1/6/2020,2/16/2022
+45,38,LIBRARY MANAGEMENT APPLICATION (C++),Designer/Developer,"
+Đây là dự án cuối cùng cho một môn học tôi đã học trong năm đầu tiên. Tôi đã thiết kế luồng giao diện người dùng cơ bản và giúp phát triển khoảng 40% các tính năng của dự án.
+",1/7/2020,2/17/2022
+46,17,A WORLD-TIME APPLICATION (FLUTTER),Developer,"Đây là một dự án tôi đã làm khi lần đầu tiên nghiên cứu Flutter, nó giúp bạn xem thời gian của các quốc gia khác nhau.",1/8/2020,2/18/2022
+47,33,A SIMPLE GALLERY ON ANDROID MOBILE (JAVA),Designer/Developer,"
+Đây là một dự án tôi đang thực hiện trong năm thứ ba của tôi. Tôi đã thiết kế giao diện người dùng, quyết định những tính năng nào chúng tôi nên có, phân công nhiệm vụ cho nhóm của tôi và phát triển khoảng 25% tính năng của dự án.
+
+
+",1/9/2020,2/19/2022
+48,8,A BOOK REVIEW APPLICATION ON ANDROID MOBILE (JAVA),Designer/Developer,"Một dự án tôi đang làm trong năm thứ ba cho phép người dùng viết và đọc đánh giá sách. Tôi đã thiết kế giao diện người dùng và phát triển khoảng 15% tính năng của dự án.
+",1/10/2020,2/20/2022
+49,34,TMDB Movie Website,Personal Project,"
+Chịu trách nhiệm về Giao diện Website.  Làm việc với API TMDB. Chức năng chính: Tìm kiếm, Hiển thị đoạn giới thiệu phim, Hiển thị danh sách phim theo thể loại.
+
+
+",1/11/2020,2/21/2022
+50,50,Weather Forecast,Personal Project,"Một trang web cung cấp dự báo thời tiết của thành phố bằng cách sử dụng API OpenWeatherMap, chịu trách nhiệm về Giao diện trang web.
+",1/12/2020,2/22/2022
+51,36,ChatBox (Personal Project),Personal Project,"Chịu trách nhiệm về Giao diện Website. Làm việc với Firebase (FireStore, FireAuthentication).
+",1/13/2020,2/23/2022
+52,21,K12 ONLINE,Back-end developer,"
+Phần mềm ôn thi trực tuyến cho tất cả các đơn vị nhà trường. Bảo trì và vận hành hệ thống. Xây dựng chức năng đề thi, chấm thi cho học sinh. - Xây dựng chức năng quản lý đề thi, đề thi cho giáo viên, ngân hàng câu hỏi,...
+",1/14/2020,2/24/2022
+53,40,Tech JDI Company,Fullstack Developer,"Triển khai và quản lý máy chủ trên EC2. Giúp đồng đội sửa một số lỗi trên front-end để cải thiện và học hỏi các kỹ năng kỹ thuật mới (React Native, Typescript)
+",1/15/2020,2/25/2022
+54,16,Simply Weatlh,Fullstack Developer,"Sản phẩm Fintech từ Singapore để kết nối giữa các chuyên gia quản lý tài sản, cố vấn tài chính và khách hàng của họ bằng cách tự động hóa và trực quan hóa dữ liệu sâu sắc với ReactJS.
+",1/16/2020,2/26/2022
+55,26,IDE PROJECTS,Fullstack Developer,"
+Tôi đã phát triển một trang web quản trị cho sách điện tử để quản lý người dùng, sách, blog, âm thanh,... Viết gần như api cho khách hàng để lấy dữ liệu và hiển thị nó trên trang web.
+",1/17/2020,2/27/2022
+56,40,TinyLife Co.Ltd,Front-end (Flutter & Dart),"
+Siêu ứng dụng tí hon - Siêu ứng dụng này kết hợp nhiều nền tảng truyền thông xã hội như Facebook, Instagram và TikTok. Ứng dụng nhỏ cũng bao gồm một trang web nơi các doanh nghiệp, đối tác và những người khác có thể đăng ký và cộng tác.
+",1/18/2020,2/28/2022

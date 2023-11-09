@@ -1,0 +1,57 @@
+﻿id,user_id,university,major,start,end,created_at,updated_at
+1,1,Đại học Ngoại thương,Công nghệ thông tin,2016,2020,4/3/2023,4/4/2023
+2,2,TRƯỜNG CAO ĐẲNG BÁCH KHOA FPT,Công nghệ thông tin,2018,2021,4/3/2023,4/4/2023
+3,3,"Đại học Mở Thành phố Hồ Chí Minh, Hệ Thống Thông Tin Quản Lý",Công nghệ thông tin,2019,2023,4/3/2023,4/4/2023
+4,4,Trường ĐH Công nghệ Thông tin - UIT,Công nghệ thông tin,2019,2022,4/3/2023,4/4/2023
+5,5,Đại học Khoa học Tự nhiên,Hệ thống thông tin,2019,2023,4/3/2023,4/4/2023
+6,6,ĐẠI HỌC THƯƠNG MẠI,Công nghệ thông tin,2017,2021,4/3/2023,4/4/2023
+7,7,Trường ĐH Khoa học Tự nhiên ,Hệ thống thông tin,2019,2023,4/3/2023,4/4/2023
+8,8,Trường Đại học Mở Thành phố Hồ Chí Minh,Công nghệ thông tin,2019,2023,4/3/2023,4/4/2023
+9,9,"Cử nhân Khoa học Máy tính, Chuyên gia Nâng cao- gram trong Khoa học Máy tính (APCS) của ĐHQG-HCM Trường ĐH Khoa học Tự nhiên TP",,2019,2023,4/3/2023,4/4/2023
+10,10,ĐẠI HỌC NGOẠI THƯƠNG,Công nghệ thông tin,2019,2023,4/3/2023,4/3/2023
+11,11,Trường Đại học Mở Thành phố Hồ Chí Minh,Công nghệ thông tin,2019,2023,4/3/2023,4/3/2023
+12,12,Học viện Bưu chính Viễn thông,Công nghệ thông tin,2017,2021,4/3/2023,4/3/2023
+13,12,CÔNG NGHỆ THÔNG TIN,Công nghệ thông tin,2017,2023,4/3/2023,4/3/2023
+14,13,Trường ĐH Khoa học Tự nhiên ,Hệ thống thông tin,2018,2023,4/3/2023,4/3/2023
+15,14,đại học Nguyen Tat Thanh,Khoa học dữ liệu,2020,2023,4/3/2023,4/3/2023
+16,15,Đại học Công nghệ Đông Á,Công nghệ thông tin,2020,2023,4/3/2023,4/3/2023
+17,16,Trường ĐH Công nghệ Thông tin,Công nghệ thông tin,2019,2023,4/3/2023,4/3/2023
+18,17,Đại học Kiên Giang,Công nghệ thông tin,2021,2023,4/3/2023,4/3/2023
+19,18,Trường ĐH Khoa học Tự nhiên ,Khoa học dữ liệu,2021,2023,4/3/2023,4/3/2023
+20,19,Industrial University of Ho Chi Minh City,Kỹ thuật phần mềm,2019,2023,4/3/2023,4/3/2023
+21,20,Trường ĐH Công Nghệ GTVT,Công nghệ thông tin,2019,2023,4/3/2023,4/3/2023
+22,21,University of Engineering and Technology – Vietnam National University,Kỹ thuật phần mềm,2019,2023,4/3/2023,4/3/2023
+23,22, thayloc.com,Công nghệ thông tin,2020,2023,4/3/2023,4/3/2023
+24,22,F8.edu.vn,Công nghệ thông tin,2019,2023,4/3/2023,4/3/2023
+25,23,Trường ĐH Khoa học Tự nhiên ,Kỹ thuật phần mềm,2017,2023,4/3/2023,4/3/2023
+26,24,"Học viện Bưu chính Viễn thông
+",Công nghệ thông tin,2019,2023,4/3/2023,4/3/2023
+27,24,Công nghệ - PTIT,Công nghệ thông tin,2020,2021,4/3/2023,4/3/2023
+28,25,TRƯỜNG ĐẠI HỌC HUTECH,Công nghệ thông tin,2021,2021,4/3/2023,4/3/2023
+29,26,Đại học Thành phố Hồ Chí Minh Công nghệ và Giáo dục,Công nghệ thông tin,2020,2021,4/3/2023,4/3/2023
+30,27,TRƯỜNG ĐẠI HỌC CÔNG NGHỆ THÔNG TIN - ĐẠI HỌC QUỐC GIA,Công nghệ thông tin,2018,2021,4/3/2023,4/3/2023
+31,28,Trường ĐH Khoa học Tự nhiên ,Kỹ thuật phần mềm,2019,2023,4/3/2023,4/3/2023
+32,29,Đại Học Công Nghiệp Hà Nội - Hệ Cao Đẳng,Công nghệ thông tin,2019,2023,4/3/2023,4/3/2023
+33,30,ĐẠI HỌC QUỐC GIA TP. ĐẠI HỌC CÔNG NGHỆ THÔNG TIN,Công nghệ thông tin,2018,2021,4/3/2023,4/3/2023
+34,31,ĐẠI HỌC HÀ NỘI,Công nghệ thông tin,2020,2021,4/3/2023,4/3/2023
+35,32,Trường ĐH Khoa học Tự nhiên ,Kỹ thuật phần mềm,2019,2023,4/3/2023,4/3/2023
+36,33,Cao đẳng,Công nghệ thông tin,2020,2021,4/3/2023,4/3/2023
+37,34,Trường ĐH Khoa học Tự nhiên,Kỹ thuật phần mềm,2018,2022,4/3/2023,4/3/2023
+38,34,Học viện Cybersoft,Công nghệ thông tin,2019,2023,4/3/2023,4/3/2023
+39,35,Trường ĐH Khoa học Tự nhiên ,Kỹ thuật phần mềm,2019,2023,4/3/2023,4/3/2023
+40,36,Trường ĐH Khoa học Tự nhiên,Kỹ thuật phần mềm,2019,2023,4/3/2023,4/3/2023
+41,37,Trường ĐH Khoa học Tự nhiên ,Kỹ thuật phần mềm,2013,2017,4/3/2023,4/3/2023
+42,38,Trường ĐH Khoa học Tự nhiên ,Kỹ thuật phần mềm,2019,2023,4/3/2023,4/3/2023
+43,39,Trường ĐH Khoa học Tự nhiên ,Kỹ thuật phần mềm,2019,2023,4/3/2023,4/3/2023
+44,40,Cao đẳng Công Thương,Công nghệ thông tin,2019,2023,4/3/2023,4/3/2023
+45,41,Trường ĐH Khoa học Tự nhiên ,Kỹ thuật phần mềm,2022,2023,4/3/2023,4/3/2023
+46,42,Cybersoft Center,Công nghệ thông tin,2019,2023,4/3/2023,4/3/2023
+47,43,Trường ĐH Khoa học Tự nhiên ,Kỹ thuật phần mềm,2017,2021,4/3/2023,4/3/2023
+48,44,Học viện Kỹ thuật Mật mã,Công nghệ thông tin,2019,2023,4/3/2023,4/3/2023
+49,45,"Đại học Công nghệ Auckland
+",Công nghệ thông tin,2018,2022,4/3/2023,4/3/2023
+50,46,Đại học Nguyễn Tất Thành,Công nghệ thông tin,2019,2023,4/3/2023,4/3/2023
+51,47,Trường ĐH Khoa học Tự nhiên ,Kỹ thuật phần mềm,2017,2021,4/3/2023,4/3/2023
+52,48,Trường ĐH Khoa học Tự nhiên ,An toàn thông tin,2019,2023,4/3/2023,4/3/2023
+53,49,Đại học Bách Khoa,Công nghệ phần mềm,2019,2023,4/3/2023,4/3/2023
+54,50,ĐẠI HỌC FPT,Công nghệ thông tin,2019,2023,4/3/2023,4/3/2023
